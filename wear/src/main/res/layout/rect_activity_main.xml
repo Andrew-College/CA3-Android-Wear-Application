@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:tools="http://schemas.android.com/tools"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent"
+			  android:orientation="vertical"
+			  tools:context=".MainActivity"
+			  tools:deviceIds="wear_square"
+			  android:background="#fff0f0f0"
+			  android:gravity="bottom">
+
+	<TextView
+		android:id="@+id/sentence"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/hello_square"
+		android:textColor="#ff1c1c1c"
+		android:gravity="center_vertical|center_horizontal"/>
+
+	<TextView
+		android:id="@+id/letter"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/letter"
+		android:textColor="#ff1c1c1c"
+		android:gravity="center_vertical|center_horizontal"/>
+
+	<TextView
+		android:id="@+id/code"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/code"
+		android:textColor="#ff1c1c1c"
+		android:gravity="center_vertical|center_horizontal"/>
+
+	<LinearLayout
+		tools:context=".MainActivity"
+		tools:deviceIds="wear_square"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="#fff0f0f0">
+
+		<Button
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:text="@string/tapHold"
+			android:id="@+id/morseButton"
+			android:background="#ff6b6b6b"/>
+	</LinearLayout>
+</LinearLayout>

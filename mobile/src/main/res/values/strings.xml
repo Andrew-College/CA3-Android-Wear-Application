@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">CA3WearApplication</string>
+	<string name="WearBoard">Wear Keyboard</string>
+	<string name="subtype_en_US">English (US)</string>
+	<string name="checkWear">Check your android Wear, now!</string>
+	<string name="action_settings">action_setting</string>
+</resources>

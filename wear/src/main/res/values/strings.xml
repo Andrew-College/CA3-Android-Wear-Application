@@ -1,0 +1,138 @@
+<resources>
+	<string name="app_name">CA3WearApplication</string>
+	<string name="hello_round">Hello Round World!</string>
+	<string name="hello_square">Hello Square World!</string>
+	<string name="sentence">sentence: </string>
+	<string name="letter">letter: </string>
+	<string name="code">code: </string>
+	<string name="releaseTouch">Release Touch</string>
+	<string name="tapHold">Tap or Hold to Morse</string>
+	<string name="colourDefault">#FF6B6B6B</string>
+	<string name="colourRelease">#FF0000</string>
+	<string-array name="morsecodes">
+		<item>.-</item>
+		<item>-...</item>
+		<item>-.-.</item>
+		<item>-..</item>
+		<item>.</item>
+		<item>..-.</item>
+		<item>--.</item>
+		<item>....</item>
+		<item>..</item>
+		<item>.---</item>
+		<item>-.-</item>
+		<item>.-..</item>
+		<item>--</item>
+		<item>-.</item>
+		<item>---</item>
+		<item>.--.</item>
+		<item>--.-</item>
+		<item>.-.</item>
+		<item>...</item>
+		<item>-</item>
+		<item>..-</item>
+		<item>...-</item>
+		<item>.--</item>
+		<item>-..-</item>
+		<item>-.--</item>
+		<item>--..</item>
+		<item>-----</item>
+		<item>.----</item>
+		<item>..---</item>
+		<item>...--</item>
+		<item>....-</item>
+		<item>.....</item>
+		<item>-....</item>
+		<item>--...</item>
+		<item>---..</item>
+		<item>----.</item>
+		<item>.-.-.-</item>
+		<item>--..--</item>
+		<item>---...</item>
+		<item>-.-.-.</item>
+		<item>--..--</item>
+		<item>-....-</item>
+		<item>--..-.</item>
+		<item>-.--.</item>
+		<item>-.--.-</item>
+		<item>.----.</item>
+		<item>-...-</item>
+		<item>.-.-.</item>
+		<item>-..-.</item>
+		<item>.-.-</item>
+		<item>.-.-.</item>
+		<item>.-...</item>
+		<item>-...-.-</item>
+		<item>-...-</item>
+		<item>-.-..-..</item>
+		<item>-.-.-</item>
+		<item>-.-</item>
+		<item>-.--.</item>
+		<item>...-.-</item>
+		<item>...-.</item>
+		<item>...---...</item>
+	</string-array>
+	<string-array name="morseletters">
+		<item>A</item>
+		<item>B</item>
+		<item>C</item>
+		<item>D</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>H</item>
+		<item>I</item>
+		<item>J</item>
+		<item>K</item>
+		<item>L</item>
+		<item>M</item>
+		<item>N</item>
+		<item>O</item>
+		<item>P</item>
+		<item>Q</item>
+		<item>R</item>
+		<item>S</item>
+		<item>T</item>
+		<item>U</item>
+		<item>V</item>
+		<item>W</item>
+		<item>X</item>
+		<item>Y</item>
+		<item>Z</item>
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>.</item>
+		<item>,</item>
+		<item>:</item>
+		<item>;</item>
+		<item>\?</item>
+		<item>-</item>
+		<item>_</item>
+		<item>(</item>
+		<item>)</item>
+		<item>\'</item>
+		<item>=</item>
+		<item>+</item>
+		<item>\/</item>
+		<item>[AA]</item>
+		<item>[AR]</item>
+		<item>[AS]</item>
+		<item>[BK]</item>
+		<item>[BT]</item>
+		<item>[CL]</item>
+		<item>[CT]</item>
+		<item>[K]</item>
+		<item>[KN]</item>
+		<item>[SK]</item>
+		<item>[SN]</item>
+		<item>[SOS]</item>
+	</string-array>
+</resources>
